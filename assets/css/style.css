@@ -67,7 +67,9 @@ header a:hover {
 
 #content-wrapper {
   min-height: 100%;
-  max-width:960px;
+  max-width:980px;
+  padding-left:1em;
+  padding-right:1em;
   margin-right:auto;
   margin-left:auto;
   /* sticky footer */
