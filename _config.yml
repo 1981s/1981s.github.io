@@ -1,4 +1,2 @@
 markdown: redcarpet
-source: "./src"
-layouts_dir: "./src/_layouts"
-
+exclude: ["vendor", "Gemfile", "Gemfile.lock", ".git", ".gitignore", ".bundle", "README.md"]
